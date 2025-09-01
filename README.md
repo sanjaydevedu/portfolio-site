@@ -1,9 +1,6 @@
-import React from "react";
-
 export default function Portfolio() {
   return (
     <div className="bg-gray-50 text-gray-800 font-sans">
-      {/* Header */}
       <header className="bg-indigo-600 text-white py-8 text-center shadow-md">
         <h1 className="text-4xl font-bold">Sanjay T</h1>
         <p className="text-lg mt-2">Technical Solutions Engineer | Integrations & Troubleshooting</p>
