@@ -1,68 +1,53 @@
-export default function Portfolio() {
-  return (
-    <div className="bg-gray-50 text-gray-800 font-sans">
-      <header className="bg-indigo-600 text-white py-8 text-center shadow-md">
-        <h1 className="text-4xl font-bold">Sanjay T</h1>
-        <p className="text-lg mt-2">Technical Solutions Engineer | Integrations & Troubleshooting</p>
-      </header>
-      <section className="max-w-4xl mx-auto py-12 px-6 text-center">
-        <h2 className="text-2xl font-semibold mb-4">About Me</h2>
-        <p className="text-lg leading-relaxed">
-          Technical Solutions Engineer with 6+ years of experience helping global clients integrate,
-          troubleshoot, and optimize SaaS and AdTech platforms. Skilled in API integrations, SDK debugging,
-          and product adoption, with a proven record of 97%+ customer satisfaction and 100% SLA compliance.
-        </p>
-      </section>
-      <section className="bg-white py-12 px-6 shadow-inner">
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-8 text-center">Experience Highlights</h2>
-          <ul className="space-y-6">
-            <li>
-              <h3 className="font-bold">Criteo – Senior Technical Solutions Engineer</h3>
-              <p>100% SLA compliance, 97% CSAT, 30+ client onboardings, Deep Divers program lead.</p>
-            </li>
-            <li>
-              <h3 className="font-bold">AppsFlyer – Technical Support Engineer</h3>
-              <p>200+ client escalations resolved, 87% CSAT, 50+ integrations supported, API expertise (OneLinks, Cost APIs).</p>
-            </li>
-            <li>
-              <h3 className="font-bold">MoEngage – Senior Solutions Engineer</h3>
-              <p>Improved campaign ROI by 15%, raised 40+ bugs, trained customers and new hires.</p>
-            </li>
-          </ul>
-        </div>
-      </section>
-      <section className="max-w-5xl mx-auto py-12 px-6">
-        <h2 className="text-2xl font-semibold mb-8 text-center">Projects Showcase</h2>
-        <div className="grid md:grid-cols-3 gap-6">
-          <div className="bg-white p-6 rounded-2xl shadow-md">
-            <h3 className="font-bold mb-2">AWS Hosting Project</h3>
-            <p>Built a static website hosting pipeline with S3, CloudFront, GitHub Actions, and Route 53.</p>
-          </div>
-          <div className="bg-white p-6 rounded-2xl shadow-md">
-            <h3 className="font-bold mb-2">RESTful API Development</h3>
-            <p>Developed Bookstore API with Flask/FastAPI, token authentication, PostgreSQL backend.</p>
-          </div>
-          <div className="bg-white p-6 rounded-2xl shadow-md">
-            <h3 className="font-bold mb-2">Python Automation</h3>
-            <p>Built automation scripts and CRUD RESTful services for data workflows.</p>
-          </div>
-        </div>
-      </section>
-      <section className="bg-indigo-50 py-12 px-6">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-2xl font-semibold mb-6">Recognition & Certifications</h2>
-          <p>Criteo Beats Award 2024 🏆</p>
-          <p>AWS Solutions Architect (In Progress)</p>
-          <p>RESTful API Development & Python Essential Training</p>
-        </div>
-      </section>
-      <footer className="bg-indigo-600 text-white py-8 text-center mt-12">
-        <h2 className="text-xl font-semibold mb-4">Get in Touch</h2>
-        <p>Email: sanjayamazed@gmail.com</p>
-        <p>LinkedIn: linkedin.com/in/sanjay-t-763945188</p>
-        <p>GitHub: github.com/ (add your username)</p>
-      </footer>
-    </div>
-  );
-}
+# 🌐 Sanjay T – Portfolio
+
+This repository contains the source code for my **personal portfolio website**, built with **React + TailwindCSS** and deployed on **Netlify/GitHub Pages**.
+
+---
+
+## 🚀 Live Demo
+👉 [View Portfolio](https://your-netlify-link.netlify.app)  
+(Replace with your actual deployed link)
+
+---
+
+## 📌 About Me
+Hi, I'm **Sanjay T**, a Technical Solutions Engineer with 6+ years of experience in SaaS and AdTech. I specialize in **client integrations, API troubleshooting, and product optimization**. I’m passionate about solving technical challenges, enabling seamless product adoption, and helping businesses succeed.
+
+---
+
+## 💼 Experience Highlights
+- **Criteo** – Senior Technical Solutions Engineer → 100% SLA compliance, 97% CSAT, 30+ client onboardings.
+- **AppsFlyer** – Technical Support Engineer → 200+ client escalations resolved, 50+ integrations supported.
+- **MoEngage** – Senior Solutions Engineer → Improved campaign ROI by 15%, raised 40+ bugs.
+
+---
+
+## 🛠️ Projects Showcase
+- **AWS Hosting Project** → Static website hosting pipeline with S3, CloudFront, GitHub Actions, and Route 53.
+- **RESTful API Development** → Bookstore API with Flask/FastAPI, PostgreSQL backend.
+- **Python Automation** → Workflow automation scripts & CRUD RESTful services.
+
+---
+
+## 🏆 Recognition & Certifications
+- Criteo Beats Award 2024 🏆
+- AWS Solutions Architect – Associate *(In Progress)*
+- RESTful API Development & Python Essential Training
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** React, TailwindCSS
+- **Hosting:** Netlify / GitHub Pages
+- **Other Tools:** Postman, Jira, GitHub, Chrome DevTools
+
+---
+
+## 📬 Contact
+- 📧 Email: [sanjayamazed@gmail.com](mailto:sanjayamazed@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sanjay-t-763945188](https://www.linkedin.com/in/sanjay-t-763945188)  
+- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+✨ Feel free to explore my portfolio and connect with me!
